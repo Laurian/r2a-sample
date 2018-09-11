@@ -1,0 +1,24 @@
+{
+  "name": "r2a-sample",
+  "description": "r2a-sample",
+  "main": [
+    "build/static/js/main.js"
+  ],
+  "dependencies": {
+    "angular-component.js": "0.0.7"
+  },
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
